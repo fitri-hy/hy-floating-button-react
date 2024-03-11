@@ -50,5 +50,5 @@ export default App;
 </FloatingButton>
 ```
 
-Official Site: <a href="https://hy-tech.my.id/">VISIT</a>
+Official Site: <a href="https://hy-tech.my.id/docs">VISIT</a>
 
